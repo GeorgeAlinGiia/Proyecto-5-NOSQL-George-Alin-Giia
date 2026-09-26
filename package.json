@@ -1,0 +1,24 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo con rutas HTTP en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "routes",
+    "servidor"
+  ],
+  "author": "dmeco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
